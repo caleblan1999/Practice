@@ -1,1 +1,3 @@
 # Practice
+
+print("Hello World)
